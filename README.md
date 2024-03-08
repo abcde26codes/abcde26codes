@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alphacodes26
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Godot Engine
-- 💞️ I’m looking to collaborate on a secret
+- 💞️ Hopefully you'll find my stuff interesting!
 - 📫 Q. How to reach me? A. Via Scratch!
 
 <!---
